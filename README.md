@@ -32,8 +32,10 @@ This project analyzes sales data using Power BI to identify trends, performance,
 * Certain regions outperform others
 * Sales show trends over time
 
-## 📁 Files Included
+## Files Included
 
 * Power BI file (.pbix)
 * Dashboard screenshots
+
+## Analysis Requirements
 
