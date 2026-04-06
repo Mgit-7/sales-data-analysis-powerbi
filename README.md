@@ -24,7 +24,7 @@ This project analyzes sales data using Power BI to identify trends, performance,
 
 ##  Dashboard Preview
 
-(Add your screenshots here)
+(https://github.com/Mgit-7/sales-data-analysis-powerbi/blob/main/Overview-project.png)
 
 ##  Key Insights
 
